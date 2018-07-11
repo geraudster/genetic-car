@@ -47,3 +47,7 @@ angular/
 ##########
 .gradle/
 build
+
+# Emacs #
+########
+*~
